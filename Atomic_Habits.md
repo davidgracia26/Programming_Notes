@@ -89,7 +89,7 @@ Notes for the book Atomic Habits by James Clear
     - craving
     - response
     - reward
-- The Four Law of Behavior Change are  asimple set of rules we can use to build better habits. They are
+- The Four Law of Behavior Change are  a simple set of rules we can use to build better habits. They are
     1. Make it obvious
     2. Make it attractive
     3. Make it easy
